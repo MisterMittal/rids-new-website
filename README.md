@@ -1,1 +1,1 @@
-# rids-new-website
+# Chezuba's project for RIDS NGO
